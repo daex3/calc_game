@@ -5,5 +5,5 @@ Calculator game supporting basic arithmetic
 make
 ./out 100
 ```
-\#\# Libs
+## Libs
 N\A
