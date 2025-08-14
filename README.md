@@ -4,4 +4,5 @@ Calculator game supporting basic arithmetic
 ```shell
 make
 ./out 100
-```
+```\#\# Libs
+N\A
